@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-    <!-- ChoiceNew Main Hub Portal -->
+    <!-- Main Hub Portal -->
     <url>
         <loc>https://choicenew.github.io/</loc>
         <lastmod>2026-11-01</lastmod>
@@ -41,83 +41,73 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://choicenew.github.io/index.html"/>
     </url>
 
-    <!-- VehereGo Application Site -->
+    <!-- Nav Portal -->
+    <url>
+        <loc>https://choicenew.github.io/nav/index.html</loc>
+        <lastmod>2026-11-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.98</priority>
+    </url>
+    <url>
+        <loc>https://choicenew.github.io/pyropub/nav/index.html</loc>
+        <lastmod>2026-11-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.98</priority>
+    </url>
+
+    <!-- VehereGo Application -->
+    <url>
+        <loc>https://choicenew.github.io/veherego/index.html</loc>
+        <lastmod>2026-11-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.95</priority>
+    </url>
     <url>
         <loc>https://choicenew.github.io/pyropub/veherego/index.html</loc>
         <lastmod>2026-11-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.95</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://choicenew.github.io/pyropub/veherego/index.html"/>
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://choicenew.github.io/pyropub/veherego/index.html#zh"/>
-        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://choicenew.github.io/pyropub/veherego/index.html#zh-tw"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://choicenew.github.io/pyropub/veherego/index.html#ja"/>
-        <xhtml:link rel="alternate" hreflang="ko" href="https://choicenew.github.io/pyropub/veherego/index.html#ko"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://choicenew.github.io/pyropub/veherego/index.html#es"/>
-        <xhtml:link rel="alternate" hreflang="de" href="https://choicenew.github.io/pyropub/veherego/index.html#de"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://choicenew.github.io/pyropub/veherego/index.html#fr"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://choicenew.github.io/pyropub/veherego/index.html#pt"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://choicenew.github.io/pyropub/veherego/index.html#ru"/>
-        <xhtml:link rel="alternate" hreflang="ar" href="https://choicenew.github.io/pyropub/veherego/index.html#ar"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://choicenew.github.io/pyropub/veherego/index.html"/>
     </url>
 
-    <!-- PyroMagma Academic AI Reader -->
+    <!-- PyroMagma Academic -->
+    <url>
+        <loc>https://choicenew.github.io/pyromagma/index.html</loc>
+        <lastmod>2026-11-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.95</priority>
+    </url>
     <url>
         <loc>https://choicenew.github.io/pyropub/pyromagma/index.html</loc>
         <lastmod>2026-11-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.95</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://choicenew.github.io/pyropub/pyromagma/index.html"/>
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://choicenew.github.io/pyropub/pyromagma/index.html#zh"/>
-        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://choicenew.github.io/pyropub/pyromagma/index.html#zh-tw"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://choicenew.github.io/pyropub/pyromagma/index.html#ja"/>
-        <xhtml:link rel="alternate" hreflang="ko" href="https://choicenew.github.io/pyropub/pyromagma/index.html#ko"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://choicenew.github.io/pyropub/pyromagma/index.html#es"/>
-        <xhtml:link rel="alternate" hreflang="de" href="https://choicenew.github.io/pyropub/pyromagma/index.html#de"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://choicenew.github.io/pyropub/pyromagma/index.html#fr"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://choicenew.github.io/pyropub/pyromagma/index.html#pt"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://choicenew.github.io/pyropub/pyromagma/index.html#ru"/>
-        <xhtml:link rel="alternate" hreflang="ar" href="https://choicenew.github.io/pyropub/pyromagma/index.html#ar"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://choicenew.github.io/pyropub/pyromagma/index.html"/>
     </url>
 
-    <!-- PyroMagma Reader (Legado Alternative) -->
+    <!-- PyroMagma Reader -->
+    <url>
+        <loc>https://choicenew.github.io/pyromagma/reader.html</loc>
+        <lastmod>2026-11-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.98</priority>
+    </url>
     <url>
         <loc>https://choicenew.github.io/pyropub/pyromagma/reader.html</loc>
         <lastmod>2026-11-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.98</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://choicenew.github.io/pyropub/pyromagma/reader.html"/>
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://choicenew.github.io/pyropub/pyromagma/reader.html#zh"/>
-        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://choicenew.github.io/pyropub/pyromagma/reader.html#zh-tw"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://choicenew.github.io/pyropub/pyromagma/reader.html#ja"/>
-        <xhtml:link rel="alternate" hreflang="ko" href="https://choicenew.github.io/pyropub/pyromagma/reader.html#ko"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://choicenew.github.io/pyropub/pyromagma/reader.html#es"/>
-        <xhtml:link rel="alternate" hreflang="de" href="https://choicenew.github.io/pyropub/pyromagma/reader.html#de"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://choicenew.github.io/pyropub/pyromagma/reader.html#fr"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://choicenew.github.io/pyropub/pyromagma/reader.html#pt"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://choicenew.github.io/pyropub/pyromagma/reader.html#ru"/>
-        <xhtml:link rel="alternate" hreflang="ar" href="https://choicenew.github.io/pyropub/pyromagma/reader.html#ar"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://choicenew.github.io/pyropub/pyromagma/reader.html"/>
     </url>
 
-    <!-- YourCallYourRule Application Site -->
+    <!-- YourCallYourRule Application -->
+    <url>
+        <loc>https://choicenew.github.io/yourcallyourrule/index.html</loc>
+        <lastmod>2026-11-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.95</priority>
+    </url>
     <url>
         <loc>https://choicenew.github.io/pyropub/yourcallyourrule/index.html</loc>
         <lastmod>2026-11-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.95</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://choicenew.github.io/pyropub/yourcallyourrule/index.html"/>
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://choicenew.github.io/pyropub/yourcallyourrule/index.html#zh"/>
-        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://choicenew.github.io/pyropub/yourcallyourrule/index.html#zh-tw"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://choicenew.github.io/pyropub/yourcallyourrule/index.html#ja"/>
-        <xhtml:link rel="alternate" hreflang="ko" href="https://choicenew.github.io/pyropub/yourcallyourrule/index.html#ko"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://choicenew.github.io/pyropub/yourcallyourrule/index.html#es"/>
-        <xhtml:link rel="alternate" hreflang="de" href="https://choicenew.github.io/pyropub/yourcallyourrule/index.html#de"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://choicenew.github.io/pyropub/yourcallyourrule/index.html#fr"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://choicenew.github.io/pyropub/yourcallyourrule/index.html#pt"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://choicenew.github.io/pyropub/yourcallyourrule/index.html#ru"/>
-        <xhtml:link rel="alternate" hreflang="ar" href="https://choicenew.github.io/pyropub/yourcallyourrule/index.html#ar"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://choicenew.github.io/pyropub/yourcallyourrule/index.html"/>
     </url>
 </urlset>

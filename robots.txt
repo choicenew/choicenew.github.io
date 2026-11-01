@@ -1,4 +1,4 @@
-# Search Engine & AI Model Spider Directives (Global Multi-Engine Allowed)
+# ChoiceNew & Pyro Studio - Search Engine & AI Model Spider Directives
 User-agent: *
 Allow: /
 
@@ -59,7 +59,7 @@ Allow: /
 User-agent: NaverBot
 Allow: /
 
-# XML & TXT Sitemap Directives
+# XML & TXT Sitemap Directives (100% ChoiceNew Domain)
 Sitemap: https://choicenew.github.io/sitemap.xml
 Sitemap: https://choicenew.github.io/sitemap.txt
 

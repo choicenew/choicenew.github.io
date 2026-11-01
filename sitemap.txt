@@ -1,10 +1,12 @@
 https://choicenew.github.io/
 https://choicenew.github.io/index.html
+https://choicenew.github.io/nav/index.html
+https://choicenew.github.io/pyropub/nav/index.html
+https://choicenew.github.io/veherego/index.html
 https://choicenew.github.io/pyropub/veherego/index.html
+https://choicenew.github.io/pyromagma/index.html
 https://choicenew.github.io/pyropub/pyromagma/index.html
+https://choicenew.github.io/pyromagma/reader.html
 https://choicenew.github.io/pyropub/pyromagma/reader.html
+https://choicenew.github.io/yourcallyourrule/index.html
 https://choicenew.github.io/pyropub/yourcallyourrule/index.html
-https://pyroapp.github.io/veherego/index.html
-https://pyroapp.github.io/pyromagma/index.html
-https://pyroapp.github.io/pyromagma/reader.html
-https://pyroapp.github.io/yourcallyourrule/index.html
